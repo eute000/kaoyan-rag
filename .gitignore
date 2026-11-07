@@ -1,0 +1,5 @@
+﻿.env
+data/index.json
+.tmp/
+__pycache__/
+*.pyc
